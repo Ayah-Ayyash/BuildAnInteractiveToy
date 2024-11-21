@@ -19,7 +19,6 @@ public class SequentialRotation : MonoBehaviour
 
         if (currentCubeIndex < cubes.Length && timer >= delayBetweenRotations)
         {
-
             float rotationSpeed;
 
 
